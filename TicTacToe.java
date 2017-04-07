@@ -15,7 +15,7 @@ import javax.swing.*;
 
 /**
  *
- * @author Shmuel
+ * @author samjays
  */
 public class TicTacToe extends JFrame
 {
